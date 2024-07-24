@@ -6,36 +6,19 @@ Welcome to the Algorithms Practice repository! Here you'll find solutions to var
 
 This repository is organized by topic as follows:
 
-- **`/strings`**: Problems related to string manipulation.
-  - **`/two-sum`**: Example problem on string manipulation.
-    - `solution.java`: Code for the solution.
-  - **`/longest-substring`**: Example problem for finding the longest substring without repeating characters.
-    - `solution.java`: Code for the solution.
+- **Arrays and Strings**: Problems related to arrays and strings.
+- **Linked Lists**: Problems related to linked lists.
+- **Stacks and Queues**: Problems related to stacks and queues.
+- **Trees and Graphs**: Problems related to trees and graphs.
+- **Sorting and Searching**: Problems related to sorting and searching algorithms.
+- **Dynamic Programming**: Problems related to dynamic programming.
+- **Math and Logic**: Problems related to math and logic.
+- **Object-Oriented Design**: Problems related to object-oriented design.
+- **Recursion and Backtracking**: Problems related to recursion and backtracking.
 
-- **`/arrays`**: Problems related to array manipulation.
-  - **`/plus-one`**: Example problem for incrementing a number represented by an array of digits.
-    - `solution.java`: Code for the solution.
-  - **`/rotate-array`**: Example problem for rotating an array.
-    - `solution.java`: Code for the solution.
+All of the problems are solved using Java, and the solutions are stored in an .txt file. The file name is the same as the problem name, and the solution is stored in a class named Solution. The class contains the main method, which is used to test the solution.
 
-- **`/linked-lists`**: Problems related to linked list operations.
-  - **`/reverse-linked-list`**: Example problem for reversing a linked list.
-    - `solution.java`: Code for the solution.
-
-- **`/dynamic-programming`**: Problems related to dynamic programming techniques.
-  - **`/knapsack-problem`**: Example problem for the knapsack problem.
-    - `solution.java`: Code for the solution.
-
-- **`/graphs`**: Problems related to graph algorithms and data structures.
-  - **`/shortest-path`**: Example problem for finding the shortest path in a graph.
-    - `solution.java`: Code for the solution.
-
-- **`/docs`**: Additional documentation, such as detailed explanations and diagrams.
-  - `explanation-of-techniques.md`: Explanations of techniques and concepts used.
-
-- **`/tests`**: Test files and related data.
-  - `plus-one-testcases.txt`: Test cases for the Plus One problem.
-
+```
 ## How to Contribute
 
 If you want to provide feedback on any of the exercises or suggest improvements, feel free to fork this repository and submit a pull request with your contributions. Please adhere to the existing organization pattern to keep the repository consistent.
