@@ -1,0 +1,24 @@
+// Date: 25/02/2024
+// MADE IN C++
+
+class Solution {
+public:
+    int maxArea(vector<int>& height) {
+
+        // Variables
+        int leftHeight = 0;
+        int rightHeight = height.size() - 1;
+        int totalArea = 0;
+        int iterator = 0;
+
+        while(leftHeight < rightHeight) {
+            int area = min(height[leftHeight], height[rightHeight]) * (rightHeight - leftHeight);
+            totalArea = max(totalArea, area);
+
+            if(height[leftHeight] < height[rightHeight]) leftHeight++;
+            else rightHeight--;
+        }
+
+        return totalArea;
+    }
+};
