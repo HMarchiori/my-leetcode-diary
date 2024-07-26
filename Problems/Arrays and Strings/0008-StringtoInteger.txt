@@ -1,0 +1,50 @@
+// Date: 26/07/2024
+// this one was actually pretty fun to do;
+// I used separate functions to check if the character is a digit, a whitespace or a negative sign
+// I also used a while loop to skip all the whitespaces at the beginning of the string
+
+
+class Solution {
+    public boolean isNegative(String s, int index) {
+        return s.charAt(index) == '-';
+    }
+
+    public boolean isWhiteSpace(String s, int index) {
+        return s.charAt(index) == ' ';
+    }
+
+    public boolean isDigit(char c) {
+        return c >= '0' && c <= '9';
+    }
+
+    public int myAtoi(String s) {
+        int stringLength = s.length(), index = 0, result = 0;
+        boolean isNegative = false;
+
+        if (stringLength == 0) return 0;
+
+       
+        while (index < stringLength && isWhiteSpace(s, index)) {
+            index++;
+        }
+
+        
+        if (index < stringLength && (s.charAt(index) == '-' || s.charAt(index) == '+')) {
+            isNegative = s.charAt(index) == '-';
+            index++;
+        }
+
+      
+        while (index < stringLength && isDigit(s.charAt(index))) {
+            int digit = s.charAt(index) - '0';
+            if (result > (Integer.MAX_VALUE / 10) ||
+                (result == (Integer.MAX_VALUE / 10) && digit > 7)) {
+                return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            }
+            result = result * 10 + digit;
+            index++;
+        }
+
+        return isNegative ? -result : result;
+    }
+}
