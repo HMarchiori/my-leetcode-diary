@@ -1,0 +1,5 @@
+<<29/07/2024>> 0050, 0014
+
+I seem to have trouble regarding String and StringBuilder manipulation.
+Since I learned all the basic concepts in C++, I'm having a hard time understanding it in Java.
+I'll try to practice more and get used to it.
