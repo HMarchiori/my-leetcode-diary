@@ -18,21 +18,4 @@ This repository is organized by topic as follows:
 
 All of the problems are solved using Java, and the solutions are stored in an .txt file. The file name is the same as the problem name, and the solution is stored in a class named Solution. The class contains the main method, which is used to test the solution.
 
-```
-## How to Contribute
-
-If you want to provide feedback on any of the exercises or suggest improvements, feel free to fork this repository and submit a pull request with your contributions. Please adhere to the existing organization pattern to keep the repository consistent.
-
-## How to Run the Code
-
-To run the code, follow these steps:
-
-1. Navigate to the directory of the desired problem.
-2. Compile the code with the command: `javac solution.java`.
-3. Execute the code with the command: `java Solution`.
-
-Ensure that all test cases have been verified to confirm that the solution is correct.
-
-## Contact
-
 For any feedback, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/henriquemarchiori/).
