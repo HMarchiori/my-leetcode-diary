@@ -8,5 +8,6 @@ I'll try to practice more and get used to it.
 
 I've been practicing String and StringBuilder manipulation.
 I'm starting to get the hang of it.
-I'll search for the documentation and try to understand it more.
-Specially String manipulation.
+----- 
+I made some flashcards in order to remember the most important methods and concepts.
+I'll keep practicing and try to solve more problems.
