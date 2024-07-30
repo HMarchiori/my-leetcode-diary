@@ -1,0 +1,10 @@
+// Date: 30/07/24
+// WHAT??????
+
+class Solution {
+    public int strStr(String haystack, String needle) {
+    return haystack.indexOf(needle);
+    }
+}
+
+// I'll make a proper solution for this problem later.
