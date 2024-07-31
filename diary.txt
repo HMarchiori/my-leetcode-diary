@@ -4,10 +4,15 @@ I seem to have trouble regarding String and StringBuilder manipulation.
 Since I learned all the basic concepts in C++, I'm having a hard time understanding it in Java.
 I'll try to practice more and get used to it.
 
-<<30/07/2024>> 0017, 0028
+<<30/07/2024>> 0017, 0028, 0876, 0206
 
 I've been practicing String and StringBuilder manipulation.
 I'm starting to get the hang of it.
 ----- 
 I made some flashcards in order to remember the most important methods and concepts.
+They're available in my README.md archive.
 I'll keep practicing and try to solve more problems.
+
+<<31/07/2024>>
+
+Just completed 20 flashcards about String and StringBuilder manipulation.

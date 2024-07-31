@@ -5,7 +5,7 @@ Welcome to the Algorithms Practice repository! Here you'll find solutions to var
 ## My Quizlet Flashcards 
 I've created a Quizlet set to help me memorize the most common Java documentation I usually forget. You can access it through the following links:
 
-[Strings](https://quizlet.com/br/931067527/strings-flash-cards/?i=4bshil&x=1jqt).
+[<<My String Flashcards>>](https://quizlet.com/br/931067527/strings-flash-cards/?i=4bshil&x=1jqt)
 
 
 ## Repository Structure
