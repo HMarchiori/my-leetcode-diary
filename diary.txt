@@ -13,6 +13,8 @@ I made some flashcards in order to remember the most important methods and conce
 They're available in my README.md archive.
 I'll keep practicing and try to solve more problems.
 
-<<31/07/2024>>
+<<31/07/2024>> 0026, 0080
 
-Just completed 20 flashcards about String and StringBuilder manipulation.
+Today I learned about in-place algorithms.
+I needed to search for some YouTube videos to understand it better.
+It is actually okay to understand, but rather confusing to visualize.
