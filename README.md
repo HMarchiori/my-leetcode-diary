@@ -1,5 +1,7 @@
 # Algorithms Practice
 
+[My LeetCode Profile](https://leetcode.com/u/henriquecmarchiori/)
+
 Welcome to the Algorithms Practice repository! Here you'll find solutions to various programming problems that I've solved, organized by topic to facilitate study and review. This repository is designed to track my progress over time. Details about each problem and my ideas can be found in the comments within the archive.
 
 ## My Quizlet Flashcards 
