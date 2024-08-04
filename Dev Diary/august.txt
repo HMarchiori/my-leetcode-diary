@@ -1,12 +1,11 @@
 <<01-03/08/2024>> 
 
 I took a break from studying and went to see my parents in the countryside.
-It was a great time to relax and enjoy the fresh air.
-I took some time offline, love them so much <3
 
 <<04/08/2024>> 0172, 0268
 
 I'm back to studying and today I learned about Factorial Trailing Zeroes.
 I first did a Fibonacci by accident, but it was a good practice.
 -----
-I'm starting to get used to Java and the LeetCode platform.
+Using XOR is a good way to save memory and time.
+However, it is confusing to understand at first.
