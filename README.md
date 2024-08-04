@@ -26,8 +26,8 @@ This repository is organized by topic as follows:
 
 All of the problems are solved using Java, and the solutions are stored in an .txt file. The file name is the same as the problem name, and the solution is stored in a class named Solution. The class contains the main method, which is used to test the solution.
 
-## My Development Diary
-- **diary.txt**: I will include a diary in this repository to keep track of my progress and thoughts on the problems I solve. This diary will help me to review my solutions and ideas in the future. I will share insights of every single improvement I make over time.
+## Dev Diary
+- **month.txt**: I will include a diary in this repository to keep track of my progress and thoughts on the problems I solve. This diary will help me to review my solutions and ideas in the future. I will share insights of every single improvement I make over time.
 
 
 For any feedback, feel free to contact me through [LinkedIn](https://www.linkedin.com/in/henriquemarchiori/).
