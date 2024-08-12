@@ -10,13 +10,13 @@ I first did a Fibonacci by accident, but it was a good practice.
 Using XOR is a good way to save memory and time.
 However, it is confusing to understand at first.
 
-<<05-10/08/2024>> 
+<<05-09/08/2024>> 
 
 I recently moved to another city, so I temporarily stopped solving leeetcode problems.
 I applied to some positions: a monitorship in statistics, a scolarship in Swift language, and a confidential position.
 I hope to not lose my focus on my studies.
 
-<<11/08/2024>> 0067, 0125
+<<10/08/2024>> 0067, 0125
 
 I'm back to studying and today I learned about Add Binary.
 However, the code ended being a MESS, and I needed to look on the Solution tab.
@@ -24,4 +24,13 @@ I'll try to understand it better and solve it by myself.
 -----
 I also learned about Character commands.
 They can be really useful to deal with standartization of Strings.
+
+<<11/08/2024>> 0136
+
+Today I learned about Systen.gc() and how to use it to clean the memory.
+All of the top performing answers used this command at the end before returning the result.
+I went from beating 30% of the answers to 95% of them.
+Such an interesting command.
+-----
+
 

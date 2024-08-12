@@ -1,0 +1,13 @@
+// Date: 11/08/2024
+// used XOR 
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        int res = 0;
+        for (int i = 0; i < nums.length; i++) {
+            res ^= nums[i];
+        }
+        System.gc();
+        return res;
+    }
+}
