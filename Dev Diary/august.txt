@@ -13,7 +13,7 @@ However, it is confusing to understand at first.
 <<05-09/08/2024>> 
 
 I recently moved to another city, so I temporarily stopped solving leeetcode problems.
-I applied to some positions: a monitorship in statistics, a scolarship in Swift language, and a confidential position.
+I applied to some positions: a monitorship in statistics, a scholarship in Swift language, and a confidential position.
 I hope to not lose my focus on my studies.
 
 <<10/08/2024>> 0067, 0125
@@ -31,6 +31,23 @@ Today I learned about Systen.gc() and how to use it to clean the memory.
 All of the top performing answers used this command at the end before returning the result.
 I went from beating 30% of the answers to 95% of them.
 Such an interesting command.
+
+<<12/08/2024>> 
+
+Today I took an interview for an monitorship in statistics.
+I wonder what is gonna happen.
+
+<<13/08/2024>> 0040, 0234, 2073
+
+Today I relearned about Backtracking.
+I needed to look on the Solution tab, but I understood the code.
 -----
+Also relearned Linked Lists. 
+Honestly, this problem was pretty easy. I could solve 100% by myself.
+-----
+Took some time to solve an Queue problem.
+Pretty easy.
+
+
 
 
