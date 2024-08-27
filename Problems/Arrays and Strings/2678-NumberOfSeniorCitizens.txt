@@ -1,0 +1,14 @@
+// Date: 19/08/24
+
+class Solution {
+    public int countSeniors(String[] details) {
+        int c = 0;
+        for (String i : details) {
+            int c1 = i.charAt(11) - '0';
+            int c2 = i.charAt(12) - '0';
+            if (((c1*10) + c2) > 60) c++;
+        }
+        return c;
+    }
+}
+

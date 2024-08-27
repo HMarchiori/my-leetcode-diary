@@ -1,0 +1,11 @@
+// Date: 19/08/24
+
+class Solution {
+    public int passThePillow(int n, int time) {
+        int c = 2*(n - 1);
+        int pos = time % c;
+
+        if (pos < n) return 1 + pos;
+        else return 2 * n - 1 - pos;
+    }
+}
